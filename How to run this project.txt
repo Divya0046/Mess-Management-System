@@ -1,0 +1,12 @@
+How to run this project - 
+1. Unzip the zip file provided to you.
+2. Goto database file folder and import this database file to you xampp server.
+3. Open browser and goto url:localhost/Mess Management System/index.php
+
+Login as a user by using the following - 
+email - ashok@gmail.com
+password - ashok@123
+
+Login as an admin by using the following l- 
+email - admin@gmail.com
+password - admin@123
